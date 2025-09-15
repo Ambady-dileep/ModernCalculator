@@ -105,13 +105,3 @@ button:active {
     background: linear-gradient(145deg, hsl(120, 60%, 55%), hsl(120, 60%, 65%));
 }
 
-#history {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 0.8rem;
-    color: hsl(0,0%,60%);
-    max-width: 200px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
