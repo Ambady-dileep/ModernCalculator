@@ -38,6 +38,7 @@ body {
 #display.error {
     color: #ff6b6b;
     animation: shake 0.5s ease-in-out;
+    font-size:21px;
 }
 
 @keyframes shake {
